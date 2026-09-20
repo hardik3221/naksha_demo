@@ -1,4 +1,5 @@
 # CampusPulse
+link : https://campuspulse898.vercel.app/
 
 An interactive, community-verified live map of the NSUT campus — built for Hack-4-Crown, Oblivion'26. Layers real-time campus life (study spots, crowds, events, ambient "vibe" clips) on top of a base map, with crowd upvotes deciding credibility instead of admin moderation.
 
